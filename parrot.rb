@@ -6,8 +6,7 @@ def parrot(greeting = "Squawk!")
   "Pretty bird!"
   "#{greeting}"
 end
-parrot
-parrot("Pretty bird!")
+
 
 
 
